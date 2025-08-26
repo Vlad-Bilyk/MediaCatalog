@@ -1,3 +1,18 @@
+## 2025-08-26 — M1 / Dockerized Postgres
+
+**Goals**: run local Postgres for dev.
+
+**Done**: compose file + .env; container is healthy; psql check OK.
+
+**Decisions**: db=user=mediacatalog/mediacat; port 5432 (or 5435 if needed).
+
+**Issues**: —
+
+**Commands**: docker compose up -d
+
+**Next steps**: add EF Core + Npgsql + AppDbContext (Task 3).
+
+
 ## 2025-08-22 — M1 / Solution skeleton + Postgres
 
 **Goals**: create solution with 4 projects; spin up Postgres via Docker.
