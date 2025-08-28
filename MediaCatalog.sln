@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaCatalog.Application", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaCatalog.Domain", "MediaCatalog.Domain\MediaCatalog.Domain.csproj", "{6E80966B-F946-4FD8-B4B5-6F699B4B5601}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedialCatalog.Infrastructure", "MedialCatalog.Infrastructure\MedialCatalog.Infrastructure.csproj", "{0FBE0BD9-457F-468D-AF43-5A9CD8407A75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaCatalog.Infrastructure", "MediaCatalog.Infrastructure\MediaCatalog.Infrastructure.csproj", "{0FBE0BD9-457F-468D-AF43-5A9CD8407A75}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8DC92972-A69E-4AA9-840D-032D9868C130}"
 EndProject
